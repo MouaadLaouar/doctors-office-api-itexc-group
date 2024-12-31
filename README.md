@@ -13,8 +13,8 @@ This is a NestJS application with Prisma and PostgreSQL, designed for managing a
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone [<your-repo-url>](https://github.com/MouaadLaouar/doctors-office-api-itexc-group.git)
+cd doctors-office-api-itexc-group
 ```
 
 ### Step 2: Install dependencies
