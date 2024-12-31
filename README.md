@@ -93,3 +93,7 @@ Once everything is running, you can test your API by making requests to:
 ```bash
 http://localhost:8888/api/v1
 ```
+
+### Postman Workspace Link
+
+https://www.postman.com/flight-participant-88929017/workspace/doctors-office-api-itexc-group
